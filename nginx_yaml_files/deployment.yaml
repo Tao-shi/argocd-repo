@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - image: taofiq7/curremcy-ex-devops:47
-        name: currency-ex
+          name: currency-ex
      
           #ports:
             #- containerPort: 8000
