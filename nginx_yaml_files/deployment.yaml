@@ -15,7 +15,7 @@ spec:
         app: nginx
     spec:
       containers:
-      - image: taofiq7/currency-ex-devops
+        - image: taofiq7/currency-ex-devops:47
         name: currency-ex
-        ports:
-        - containerPort: 8000
+          # ports:
+          #   - containerPort: 8000
