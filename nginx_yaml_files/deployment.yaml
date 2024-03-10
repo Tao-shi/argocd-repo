@@ -16,7 +16,7 @@ spec:
         app: nginx
     spec:
       containers:
-        - image: taofiq7/curremcy-ex-devops:47
+        - image: taofiq7/currency-ex-devops:47
           name: currency-ex
      
           #ports:
